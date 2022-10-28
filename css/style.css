@@ -41,7 +41,7 @@ cursor: pointer;
 }
 
 .color button{
-
+  outline: none;
   border: none;
   background: transparent;
   font-size: 1.5rem;
